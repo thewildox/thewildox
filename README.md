@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Eselasie TheWildOx
-- 👀 I’m interested in software development and AI
-- 🌱 I’m currently learning python, computer simulations, AI and Electronics
+- 👋 Hi, I’m Eselasie 
+- 👀 I’m interested in Data science and AI
 - 💞️ I’m looking to collaborate on many projects in the future
 - 📫 You can reach me on LinkedIn @https://www.linkedin.com/in/eselasie-akpablie-9021b6241
 - 😄 Pronouns: He/Him/His
